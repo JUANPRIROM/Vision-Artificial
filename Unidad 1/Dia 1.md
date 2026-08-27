@@ -15,9 +15,9 @@ Competencias:
 - Adquirir conocimiento básico de algoritmos de visión artificial para una aplicación especifica. 
 
 Temario:
-Unidad 1 (Sistemas de visión y procesamiento digital de imagenes)
+Unidad 1 (Sistemas de visión y procesamiento digital de imágenes)
 - 1.1 Introducción de los sistemas de visión.
-- 1.2 Componentes de un sistema de visión 
+- 1.2 Componentes de un sistema de visión.
 - 1.3 Conceptos básicos sobre imágenes.
 - 1.4 Operaciones básicas con imágenes.
 

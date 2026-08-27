@@ -18,17 +18,17 @@
             }
           },
           {
-            "id": "fec0233d4d0cdb87",
+            "id": "a30846a6e2616b5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unidad 1/Tarea 1.md",
+                "file": "Actividad 1.2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tarea 1"
+              "title": "Actividad 1.2"
             }
           }
         ],
@@ -196,11 +196,15 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "c019ff6de465f9e1",
+  "active": "a30846a6e2616b5e",
   "lastOpenFiles": [
+    "Dia 3.md",
+    "Actividad 1.2.md",
+    "Actividad 1.1.md",
     "Unidad 1/Dia 1.md",
     "Unidad 1/Tarea 1.md",
-    "Bienvenido.md",
-    "Unidad 1"
+    "Unidad 1/Día 2.md",
+    "Unidad 1",
+    "Bienvenido.md"
   ]
 }
