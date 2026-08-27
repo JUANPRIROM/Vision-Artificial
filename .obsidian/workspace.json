@@ -18,49 +18,21 @@
             }
           },
           {
-            "id": "fec0233d4d0cdb87",
+            "id": "a30846a6e2616b5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unidad 1/Tarea 1.md",
+                "file": "Actividad 1.2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tarea 1"
-            }
-          },
-          {
-            "id": "3a207cfa5b9a3479",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unidad 1/Día 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Día 2"
-            }
-          },
-          {
-            "id": "5a0f8d707653f42d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Actividad 1.1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Actividad 1.1"
+              "title": "Actividad 1.2"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,13 +196,15 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "5a0f8d707653f42d",
+  "active": "a30846a6e2616b5e",
   "lastOpenFiles": [
-    "Unidad 1/Día 2.md",
+    "Dia 3.md",
+    "Actividad 1.2.md",
     "Actividad 1.1.md",
     "Unidad 1/Dia 1.md",
     "Unidad 1/Tarea 1.md",
-    "Bienvenido.md",
-    "Unidad 1"
+    "Unidad 1/Día 2.md",
+    "Unidad 1",
+    "Bienvenido.md"
   ]
 }
