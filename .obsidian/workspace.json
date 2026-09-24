@@ -8,31 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1d2495c0772aa694",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
-            }
-          },
-          {
-            "id": "fec0233d4d0cdb87",
+            "id": "be874fb4a0bac643",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unidad 1/Tarea 1.md",
+                "file": "Unidad 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tarea 1"
+              "title": "Unidad 1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,11 +185,21 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "c019ff6de465f9e1",
+  "active": "be874fb4a0bac643",
   "lastOpenFiles": [
-    "Unidad 1/Dia 1.md",
+    "Tarea 2.md",
+    "Actividad 1.3.md",
+    "Unidad 1.md",
     "Unidad 1/Tarea 1.md",
+    "Unidad 1/Actividad 1.2.md",
+    "Unidad 1/Actividad 1.1.md",
+    "Unidad 1/Dia 1.md",
+    "Sistema inteligente para la detección de Hydrilla verticillata con capacidad de abstención.md",
+    "Sin título.md",
     "Bienvenido.md",
+    "Unidad 1/Día 2.md",
+    "Unidad 1/Dia 3.md",
+    "cree un enlace.md",
     "Unidad 1"
   ]
 }
