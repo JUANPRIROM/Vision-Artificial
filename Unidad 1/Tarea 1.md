@@ -1,1 +1,0 @@
-Lo que espero aprender de la materia de visión artificial es el manejo y comprensión de como la maquina interpreta las imágenes, con el fin de hacer comparativas, programas de monitoreo y comparativa de imágenes, además de crear nuestro propio modelo de visión artificial para proyectos que puedan ser implementados tanto en la universidad como fuera de la misma 
